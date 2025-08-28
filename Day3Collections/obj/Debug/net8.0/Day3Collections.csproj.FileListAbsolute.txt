@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\LearningSolution\Day3Collections\bin\Debug\net8.0\Day3Collections.exe
+C:\Users\Administrator\source\repos\LearningSolution\Day3Collections\bin\Debug\net8.0\Day3Collections.deps.json
+C:\Users\Administrator\source\repos\LearningSolution\Day3Collections\bin\Debug\net8.0\Day3Collections.runtimeconfig.json
+C:\Users\Administrator\source\repos\LearningSolution\Day3Collections\bin\Debug\net8.0\Day3Collections.dll
+C:\Users\Administrator\source\repos\LearningSolution\Day3Collections\bin\Debug\net8.0\Day3Collections.pdb
+C:\Users\Administrator\source\repos\LearningSolution\Day3Collections\obj\Debug\net8.0\Day3Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\LearningSolution\Day3Collections\obj\Debug\net8.0\Day3Collections.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\LearningSolution\Day3Collections\obj\Debug\net8.0\Day3Collections.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\LearningSolution\Day3Collections\obj\Debug\net8.0\Day3Collections.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\LearningSolution\Day3Collections\obj\Debug\net8.0\Day3Collections.dll
+C:\Users\Administrator\source\repos\LearningSolution\Day3Collections\obj\Debug\net8.0\refint\Day3Collections.dll
+C:\Users\Administrator\source\repos\LearningSolution\Day3Collections\obj\Debug\net8.0\Day3Collections.pdb
+C:\Users\Administrator\source\repos\LearningSolution\Day3Collections\obj\Debug\net8.0\Day3Collections.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\LearningSolution\Day3Collections\obj\Debug\net8.0\ref\Day3Collections.dll

@@ -1,0 +1,52 @@
+Collections
+
+Generic class - Parameterized class
+
+Generic Collection --> same type of data - List<T>, Dictionary<>
+Non-Generic collection --> can have Different type of data --> ArrayList
+
+Drawback of ArrayList --> too much conversions (any type to obj & vice versa)
+
+List is preferred alternative of arraylist --> it allows duplicates
+HashSet cannot have duplicate values
+
+Boxing (Convert any type(value type) to object type(reference type)) and Unboxing (convert object(reference type) to any type(value type))
+
+ArrayList --> we can add items dynamically
+Array --> Defined - same type of data
+
+var - implicitly typed variable
+
+object initialiser (without creating class constructor)
+
+Object created without giving name is known as anonymous object
+
+Collection capacity is 4 in the beginning
+
+In Dictionary --> duplicate key is not allowed but duplicate values are allowed
+ContainsKey --> checks whether the key is already present or not
+
+
+
+Why files? To store data / information / text to be saved on a file
+FileStream object path
+FileName - Data.txt
+
+FullPath - path+filename  "../../../File1.txt" --> forward slash
+
+
+Verbatim String ---->  @"..\..\..\File1.txt" --> we can use backward slash by add @ before the filepath 
+------> @ will tell the code that "\" is not an escape sequence
+
+
+FileStream is a low level object - write byte by byte to the file
+
+Text writing
+
+char - 2byte
+
+StreamWriter is using FileStream down the line
+
+
+Serialization and deserailization
+

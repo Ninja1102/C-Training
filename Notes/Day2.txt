@@ -1,0 +1,43 @@
+right click on solution --> add --> new project --> console_app --> proj_name --> .net 8.0 / do not top-level statement(checked) --> create
+Right click on the project --> set as startup project --> that proj will become bold..
+
+top-level statement will explicitly create program class and main method.
+
+OOPS Pillars -  Abstraction   - Hiding implementation using abstract class / Interface
+			Abstract Class - can't create objects
+		Encapsulation - Data (Field, Property) and behavior / Hiding data
+			Access Specifiers - 	private   - accessible only within the class they are defined
+						public    - accessible anywhere from the program
+						protected - accessible within the class and by derived class
+						internal  - accessible only in the project), default for a class in c#
+			Class can be public or internal only
+			Members can use all access specifiers, by default members are private
+
+		Inheritance
+			Derived class has all the members
+		Polymorphism
+
+
+property that has getter and setter --> read-write property
+Read only property --> property that has only getter method
+
+Property are collection of getter and setter
+Every class has a base class - Object - 
+Null cannot be assigned to value types - int? salary = null; --> this(?) allows value type to expect null also
+Null can be assigned to reference types 
+
+if no constructor is written clr will create a default constructor
+
+constructor - special method in a class written inside class that doesn't return anything and initialises fields and properties of objects
+
+*out keyword is used to send out the data value from the method
+
+Math is a static class --> Math.Max(), Math.Pow() --> static class bcoz all the methods are static
+
+TryParse --> it will try to parse the property.
+
+
+
+GIT
+dotnet new gitignore 
+the above comman will ignore the files that are not needed to be pushed to the repo

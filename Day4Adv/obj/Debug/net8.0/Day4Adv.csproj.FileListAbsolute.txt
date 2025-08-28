@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\LearningSolution\Day4Adv\bin\Debug\net8.0\Day4Adv.exe
+C:\Users\Administrator\source\repos\LearningSolution\Day4Adv\bin\Debug\net8.0\Day4Adv.deps.json
+C:\Users\Administrator\source\repos\LearningSolution\Day4Adv\bin\Debug\net8.0\Day4Adv.runtimeconfig.json
+C:\Users\Administrator\source\repos\LearningSolution\Day4Adv\bin\Debug\net8.0\Day4Adv.dll
+C:\Users\Administrator\source\repos\LearningSolution\Day4Adv\bin\Debug\net8.0\Day4Adv.pdb
+C:\Users\Administrator\source\repos\LearningSolution\Day4Adv\obj\Debug\net8.0\Day4Adv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\LearningSolution\Day4Adv\obj\Debug\net8.0\Day4Adv.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\LearningSolution\Day4Adv\obj\Debug\net8.0\Day4Adv.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\LearningSolution\Day4Adv\obj\Debug\net8.0\Day4Adv.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\LearningSolution\Day4Adv\obj\Debug\net8.0\Day4Adv.dll
+C:\Users\Administrator\source\repos\LearningSolution\Day4Adv\obj\Debug\net8.0\refint\Day4Adv.dll
+C:\Users\Administrator\source\repos\LearningSolution\Day4Adv\obj\Debug\net8.0\Day4Adv.pdb
+C:\Users\Administrator\source\repos\LearningSolution\Day4Adv\obj\Debug\net8.0\Day4Adv.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\LearningSolution\Day4Adv\obj\Debug\net8.0\ref\Day4Adv.dll

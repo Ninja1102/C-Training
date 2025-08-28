@@ -1,0 +1,65 @@
+.NET is a framework
+SDK - design time/ developing code - built in classes
+run time - CLR - Common Language Runtime
+
+
+svm --> to create void main structure in code snippet
+
+
+CLR provides memory/ clears the memory after run
+
+Source code - Complied code
+.cs		.exe(Assembly file)
+sol/project/bin/debug/.exe
+
+Project - Console, Windows, Web, Testing...
+Run will automatically compile/build the project
+
+Pascal case - start with capital - (Employee)
+classname, method name etc..
+
+Camel case - start with lower case - variable, object - (employee)
+
+Datatypes - Value types (Primitive types) and Reference Types (Objects)
+Value types - int, float, double, Boolean etc - Stack
+Reference - String, Array, Objects - Heap
+
+
+
+Entry from console
+Console.readLine();
+Console.writeLine();
+Console.write();
+
+
+
+GetLength(0) --> 0 inidicates dimension. in 2d arrays the size can be e.g., (3,4). GetLength(0) takes the value 0 and GetLength(1) takes value as 4.
+
+
+
+
+STRING METHODS
+split('') --> to split the entry based on some characters
+join() --> will join the entry
+IndexOf --> finds the index of the given character where it occurs "first"
+
+
+
+'var' is a keyword in .net used when we aren't sure about the datatype - (e.g., var d = 10/5) var will hold 'int' as datatype here
+
+
+ 
+
+in .net struct will also have constructor, thats why we can use new "keyword" for int.
+int[] arr1 = new int[5]; --> will create array of 5 objects since it is integer array it will have default value as 0.
+int[] arr2 = {1,2,3,4,5} --> direct initialisation
+
+
+GIT
+
+create a private project in gitLab
+share it with trainer as reporter
+clone the repo - git clone {httpsURL}
+add some files - git status / git add . / git status
+commit new changes - git commit -m "changed on 18Aug"
+git push -u origin main

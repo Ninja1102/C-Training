@@ -1,0 +1,65 @@
+Library project - 
+	Library class should be public
+	No main - not to execute, only to refer
+
+	How to refer a project?
+		Right click on the proj --> project reference --> Select the proj
+		in the code --> "using project_name" --> then use the methods
+
+params		lets us to have n number of parameters it should be array "params int[] arr"
+		params also allows the user to pass more parameters not declared as array.
+
+Test project 
+		MS Test
+		NUnit - for .NET framework
+		XUnit - preferred for .NET
+Test project - test class - test methods [Fact]
+
+if [Fact] attributes is present that becomes test method
+
+[Theory] attribute is used for parameterised test method
+[InlineData] attribute is used to provide parameters to the test methods
+
+
+// annotations // attributes -> are information on a type / method
+[obsolete] --> attributes
+public static void DoSomething()
+{
+	//statements
+}
+
+//AAA
+	Arrange
+	Act
+	Assert
+
+we have to refer library project in any other project and in test project as well
+Follow AAA framework
+
+// FOr the whole solution rebuild the solution 
+ASP.NET - web API
+
+
+Thread - Main thread that runs a program.
+Why use more child threads? Simultaneously
+Creation of thread is expensive
+
+Task is threadpool
+
+
+
+
+Layered Projects -	UI		Business logic		Repository		DB
+
+
+
+
+
+
+
+
+
+
+
+
+

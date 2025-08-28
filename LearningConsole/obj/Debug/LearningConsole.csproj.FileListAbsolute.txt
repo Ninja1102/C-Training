@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\LearningSolution\LearningConsole\bin\Debug\LearningConsole.exe.config
+C:\Users\Administrator\source\repos\LearningSolution\LearningConsole\bin\Debug\LearningConsole.exe
+C:\Users\Administrator\source\repos\LearningSolution\LearningConsole\bin\Debug\LearningConsole.pdb
+C:\Users\Administrator\source\repos\LearningSolution\LearningConsole\obj\Debug\LearningConsole.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\LearningSolution\LearningConsole\obj\Debug\LearningConsole.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\LearningSolution\LearningConsole\obj\Debug\LearningConsole.exe
+C:\Users\Administrator\source\repos\LearningSolution\LearningConsole\obj\Debug\LearningConsole.pdb

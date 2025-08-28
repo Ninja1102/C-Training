@@ -1,0 +1,22 @@
+SQL Server - Server
+
+SSMS - SQL Server Management Studio
+
+Windows Search --> Services --> SQL Express (Run, if it is not running)
+Connect using password or windows authentication
+
+Northwind is a sample database provided by MS. --> imaginary trading company
+
+Table can have only 1 Primary Key but can have multiple Foreign Keys
+
+
+ADO.NET ActiveX Data Objects
+
+Classes
+.NET Framework - System.Data.SqlClient
+Install the package - Microsoft.Data.SqlClient
+
+sqlConnection to connect with SQL Server
+provide info about 
+
+COnnection

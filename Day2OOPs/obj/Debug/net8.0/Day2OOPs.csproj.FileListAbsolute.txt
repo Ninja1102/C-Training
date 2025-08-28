@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\LearningSolution\Day2OOPs\obj\Debug\net8.0\Day2OOPs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\LearningSolution\Day2OOPs\obj\Debug\net8.0\Day2OOPs.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\LearningSolution\Day2OOPs\obj\Debug\net8.0\Day2OOPs.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\LearningSolution\Day2OOPs\obj\Debug\net8.0\Day2OOPs.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\LearningSolution\Day2OOPs\bin\Debug\net8.0\Day2OOPs.exe
+C:\Users\Administrator\source\repos\LearningSolution\Day2OOPs\bin\Debug\net8.0\Day2OOPs.deps.json
+C:\Users\Administrator\source\repos\LearningSolution\Day2OOPs\bin\Debug\net8.0\Day2OOPs.runtimeconfig.json
+C:\Users\Administrator\source\repos\LearningSolution\Day2OOPs\bin\Debug\net8.0\Day2OOPs.dll
+C:\Users\Administrator\source\repos\LearningSolution\Day2OOPs\bin\Debug\net8.0\Day2OOPs.pdb
+C:\Users\Administrator\source\repos\LearningSolution\Day2OOPs\obj\Debug\net8.0\Day2OOPs.dll
+C:\Users\Administrator\source\repos\LearningSolution\Day2OOPs\obj\Debug\net8.0\refint\Day2OOPs.dll
+C:\Users\Administrator\source\repos\LearningSolution\Day2OOPs\obj\Debug\net8.0\Day2OOPs.pdb
+C:\Users\Administrator\source\repos\LearningSolution\Day2OOPs\obj\Debug\net8.0\Day2OOPs.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\LearningSolution\Day2OOPs\obj\Debug\net8.0\ref\Day2OOPs.dll

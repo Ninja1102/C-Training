@@ -1,0 +1,25 @@
+
+Partial classes - we can write content of a class in xple files by making the class partial in 
+		  both the files so that those partial classes will be combined and compiled together at run time.
+Sealed Class - 
+Static class
+
+creating a named method - refer by delegate object
+
+delegates types --> Action (not returning anything) and Function (with return value) delelgates
+
+
+delegate - ref to methods
+"delegate" is a type created using "delegate" keyword -->  it reference the methods 
+
+Event --> can have any functionality
+
+if an event have more than 1 method it is called multi-casting
+
+window application - to understand events
+
+LINQ -> Language Integrated Query
+Why LINQ --> to provide SQL like functionalities on in memory objects / collections
+
+LINQ --> has 2 types of syntax --> query syntax , method syntax (chaining of functions)
+
