@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\LearningSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EFCB85A7-0E18-4D3E-BD6A-08225C1734C7}|Day6Practice\\Day6Practice.csproj|c:\\users\\administrator\\source\\repos\\learningsolution\\day6practice\\findduplicates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFCB85A7-0E18-4D3E-BD6A-08225C1734C7}|Day6Practice\\Day6Practice.csproj|solutionrelative:day6practice\\findduplicates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFCB85A7-0E18-4D3E-BD6A-08225C1734C7}|Day6Practice\\Day6Practice.csproj|c:\\users\\administrator\\source\\repos\\learningsolution\\day6practice\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCB85A7-0E18-4D3E-BD6A-08225C1734C7}|Day6Practice\\Day6Practice.csproj|solutionrelative:day6practice\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCB85A7-0E18-4D3E-BD6A-08225C1734C7}|Day6Practice\\Day6Practice.csproj|c:\\users\\administrator\\source\\repos\\learningsolution\\day6practice\\sort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCB85A7-0E18-4D3E-BD6A-08225C1734C7}|Day6Practice\\Day6Practice.csproj|solutionrelative:day6practice\\sort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCB85A7-0E18-4D3E-BD6A-08225C1734C7}|Day6Practice\\Day6Practice.csproj|c:\\users\\administrator\\source\\repos\\learningsolution\\day6practice\\maxmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCB85A7-0E18-4D3E-BD6A-08225C1734C7}|Day6Practice\\Day6Practice.csproj|solutionrelative:day6practice\\maxmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCB85A7-0E18-4D3E-BD6A-08225C1734C7}|Day6Practice\\Day6Practice.csproj|c:\\users\\administrator\\source\\repos\\learningsolution\\day6practice\\sumofdig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCB85A7-0E18-4D3E-BD6A-08225C1734C7}|Day6Practice\\Day6Practice.csproj|solutionrelative:day6practice\\sumofdig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EFCB85A7-0E18-4D3E-BD6A-08225C1734C7}|Day6Practice\\Day6Practice.csproj|c:\\users\\administrator\\source\\repos\\learningsolution\\day6practice\\reversestring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFCB85A7-0E18-4D3E-BD6A-08225C1734C7}|Day6Practice\\Day6Practice.csproj|solutionrelative:day6practice\\reversestring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCB85A7-0E18-4D3E-BD6A-08225C1734C7}|Day6Practice\\Day6Practice.csproj|c:\\users\\administrator\\source\\repos\\learningsolution\\day6practice\\day6practice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{EFCB85A7-0E18-4D3E-BD6A-08225C1734C7}|Day6Practice\\Day6Practice.csproj|solutionrelative:day6practice\\day6practice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCB85A7-0E18-4D3E-BD6A-08225C1734C7}|Day6Practice\\Day6Practice.csproj|c:\\users\\administrator\\source\\repos\\learningsolution\\day6practice\\findduplicates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCB85A7-0E18-4D3E-BD6A-08225C1734C7}|Day6Practice\\Day6Practice.csproj|solutionrelative:day6practice\\findduplicates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EFCB85A7-0E18-4D3E-BD6A-08225C1734C7}|Day6Practice\\Day6Practice.csproj|c:\\users\\administrator\\source\\repos\\learningsolution\\day6practice\\palindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,11 +42,75 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sort.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\LearningSolution\\Day6Practice\\Sort.cs",
+              "RelativeDocumentMoniker": "Day6Practice\\Sort.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\LearningSolution\\Day6Practice\\Sort.cs",
+              "RelativeToolTip": "Day6Practice\\Sort.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T13:27:23.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MaxMin.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\LearningSolution\\Day6Practice\\MaxMin.cs",
+              "RelativeDocumentMoniker": "Day6Practice\\MaxMin.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\LearningSolution\\Day6Practice\\MaxMin.cs",
+              "RelativeToolTip": "Day6Practice\\MaxMin.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T13:27:17.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SumOfDig.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\LearningSolution\\Day6Practice\\SumOfDig.cs",
+              "RelativeDocumentMoniker": "Day6Practice\\SumOfDig.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\LearningSolution\\Day6Practice\\SumOfDig.cs",
+              "RelativeToolTip": "Day6Practice\\SumOfDig.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T13:18:19.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Day6Practice",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\LearningSolution\\Day6Practice\\Day6Practice.csproj",
+              "RelativeDocumentMoniker": "Day6Practice\\Day6Practice.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\LearningSolution\\Day6Practice\\Day6Practice.csproj",
+              "RelativeToolTip": "Day6Practice\\Day6Practice.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-28T13:16:12.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Factorial.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\LearningSolution\\Day6Practice\\Factorial.cs",
+              "RelativeDocumentMoniker": "Day6Practice\\Factorial.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\LearningSolution\\Day6Practice\\Factorial.cs",
+              "RelativeToolTip": "Day6Practice\\Factorial.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T13:13:11.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "FindDuplicates.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\LearningSolution\\Day6Practice\\FindDuplicates.cs",
               "RelativeDocumentMoniker": "Day6Practice\\FindDuplicates.cs",
@@ -39,20 +123,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ReverseString.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\LearningSolution\\Day6Practice\\ReverseString.cs",
               "RelativeDocumentMoniker": "Day6Practice\\ReverseString.cs",
               "ToolTip": "C:\\Users\\Administrator\\source\\repos\\LearningSolution\\Day6Practice\\ReverseString.cs",
               "RelativeToolTip": "Day6Practice\\ReverseString.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-26T14:23:02.612Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Palindrome.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\LearningSolution\\Day6Practice\\Palindrome.cs",
               "RelativeDocumentMoniker": "Day6Practice\\Palindrome.cs",
@@ -60,8 +144,7 @@
               "RelativeToolTip": "Day6Practice\\Palindrome.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAswBAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T15:53:13.207Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T15:53:13.207Z"
             }
           ]
         }

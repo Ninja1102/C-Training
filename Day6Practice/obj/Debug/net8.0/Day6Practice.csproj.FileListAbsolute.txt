@@ -12,3 +12,4 @@ C:\Users\Administrator\source\repos\LearningSolution\Day6Practice\obj\Debug\net8
 C:\Users\Administrator\source\repos\LearningSolution\Day6Practice\obj\Debug\net8.0\Day6Practice.pdb
 C:\Users\Administrator\source\repos\LearningSolution\Day6Practice\obj\Debug\net8.0\Day6Practice.genruntimeconfig.cache
 C:\Users\Administrator\source\repos\LearningSolution\Day6Practice\obj\Debug\net8.0\ref\Day6Practice.dll
+C:\Users\Administrator\source\repos\LearningSolution\Day6Practice\obj\Debug\net8.0\Day6Practice.sourcelink.json

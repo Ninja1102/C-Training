@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>disable</Nullable>
-    <StartupObject>Day6Practice.FindDuplicates</StartupObject>
+    <StartupObject>Day6Practice.Factorial</StartupObject>
   </PropertyGroup>
 
 </Project>
